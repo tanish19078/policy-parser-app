@@ -3,9 +3,8 @@
 This is a Streamlit-based web app that uses Google Gemini to parse and answer questions about insurance documents.
 
 ## 🚀 Features
-- Upload multiple PDFs
+- Upload PDF
 - Ask natural language queries
-- Chat history support
 - Gemini 2.5 Flash integration
 
 ## 📦 Installation
